@@ -1,0 +1,5 @@
+---
+  # The key will be change to lower case when checking, so they will not be case sensitive
+  # Example
+  # example1: "https://discordapp.com/api/webhooks/example11/exampleexampleexample11111"
+  # example2: "https://discordapp.com/api/webhooks/example22/exampleexampleexample22222"
